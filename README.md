@@ -1,5 +1,9 @@
 ![logo](https://github.com/VINITCHAVDA/VINITCHAVDA/blob/main/banner.png )
-<h1 align="center">Hi 👋, I'm Vinit Chavda</h1>
+<div align="center" height="fit-content">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bfff&size=30&font=poppins+sans+serif&center=true&lines=👋+Hey!+I'm+Vinit+Chavda; )](https://git.io/typing-svg)
+
+</div>
 <h3 align="center">I Am Front-End Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" > 
